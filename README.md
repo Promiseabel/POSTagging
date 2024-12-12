@@ -1,6 +1,6 @@
 # POS Tagging System
 
-Written 2024. This project is designed to perform part-of-speech tagging using a crf model
+Written 2024 with 2 others. This project is designed to perform part-of-speech tagging using a crf model
 
 ## Repository Structure
 
