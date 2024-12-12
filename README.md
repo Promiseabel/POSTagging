@@ -1,6 +1,6 @@
 # POS Tagging System
 
-This is out POS Tagging System repository for CS4765! This project is designed to perform part-of-speech tagging using a crf model
+Written 2024. This project is designed to perform part-of-speech tagging using a crf model
 
 ## Repository Structure
 
