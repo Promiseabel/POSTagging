@@ -1,0 +1,24 @@
+Here's a hopeful guide and breakdown of our dataset csv for us to both to get an understanding of what each column is likely representing
+and for a quick eference :) :
+
+idx: This is usually an index or identifier for each sentence or entry. It’s helpful for keeping track of each instance.
+
+text: The original text of a sentence or a phrase. This is a critical part of our dataset since it’s what we’re trying to annotate with POS tags.
+
+tokens: These are the words that make up the sentence. 
+
+lemmas: These are the root forms of each word. For example, the lemma of "running" would be "run." (example from course)
+
+upos: This column likely contains the Universal POS tags, which are like a simplified set of part-of-speech labels used for linguistic consistency across languages.
+
+xpos: These could be language-specific POS tags, providing more granular information about the parts of speech.
+
+feats: This column probably holds additional linguistic features, such as verb tense, number (singular/plural), or gender.
+
+head: This might be an identifier pointing to which word is the "head" of a syntactic dependency relation.
+
+deprel: Dependency relation labels. This represents the grammatical relationship between words (e.g., "subject," "object").
+
+deps: This is sometimes used for additional syntactic dependencies, though seems it's often optional.
+
+misc: Any miscellaneous information that doesn’t fit neatly into the other categories.

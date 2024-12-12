@@ -1,0 +1,11 @@
+scikit-learn
+sklearn-crfsuite
+spacy
+gensim
+numpy
+pandas
+conllu
+nltk
+pyaml
+seaborn
+matplotlib
